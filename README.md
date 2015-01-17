@@ -1,0 +1,1 @@
+Practice creating a copy on write class (though won't work in C++ 11)
